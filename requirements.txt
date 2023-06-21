@@ -1,0 +1,7 @@
+pandas
+Flask
+numpy
+tensorflow
+matplotlib
+
+
